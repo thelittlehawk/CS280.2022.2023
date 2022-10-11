@@ -1,5 +1,7 @@
 package ba.edu.ssst;
 
+import org.w3c.dom.css.Rect;
+
 import java.util.ArrayList;
 
 public class Main {
@@ -11,10 +13,18 @@ public class Main {
         shapes.add(new Square(15));
         shapes.add(new Rectangle(10, 20));
 
+        ArrayList<IAngle> shapes2 = new ArrayList<>();
+        shapes2.add(new Square(10));
+        shapes2.add(new Rectangle(10, 20));
+        shapes2.add(new Circle(10));
+
+        Computer c = new Computer("My super computer");
+        c.plugInUSB(new AppleData());
+        c.plugInUSB(new Toshiba());
+
         for (int i = 0; i < shapes.size(); i++) {
             try {
                 Shape s = shapes.get(i);
-                s.scale(-10);
                 System.out.println(s);
                 System.out.println("Area: " + s.area() + ", Circumference: " + s.circumference());
             } catch (Exception e) {

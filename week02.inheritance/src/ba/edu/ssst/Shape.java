@@ -20,6 +20,6 @@ public class Shape extends Object {
 
     @Override
     public String toString() {
-        return super.toString();
+        return "Shape{}";
     }
 }

@@ -41,4 +41,12 @@ public class Rectangle extends Shape {
         this.setA(a * scale);
         this.setB(b * scale);
     }
+
+    @Override
+    public String toString() {
+        return "Rectangle{" +
+                "a=" + a +
+                ", b=" + b +
+                '}';
+    }
 }
