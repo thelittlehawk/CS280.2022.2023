@@ -1,0 +1,10 @@
+color, animal, weight
+blue, ant, 10
+red, lizard, 1
+blue, cat, 4
+yellow, dog, 12
+yellow, bear, 12321
+red, shark, 213
+blue, tiger, 2
+purple, lion, 3
+strange, owl, -10
