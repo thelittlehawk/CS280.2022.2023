@@ -1,0 +1,608 @@
+id,job_title,salary,salary_in_usd
+252,Principal Data Engineer,600000.0,600000.0
+97,Financial Data Analyst,450000.0,450000.0
+33,Research Scientist,450000.0,450000.0
+157,Applied Machine Learning Scientist,423000.0,423000.0
+225,Principal Data Scientist,416000.0,416000.0
+63,Data Scientist,412000.0,412000.0
+523,Data Analytics Lead,405000.0,405000.0
+519,Applied Data Scientist,380000.0,380000.0
+25,Director of Data Science,325000.0,325000.0
+482,Data Engineer,324000.0,324000.0
+93,Lead Data Engineer,276000.0,276000.0
+78,ML Engineer,270000.0,270000.0
+534,Data Architect,266400.0,266400.0
+416,Data Scientist,260000.0,260000.0
+1,Machine Learning Scientist,260000.0,260000.0
+231,ML Engineer,256000.0,256000.0
+167,Director of Data Science,250000.0,250000.0
+37,Machine Learning Engineer,250000.0,250000.0
+337,Data Engineer,243900.0,243900.0
+309,Data Engineer,242000.0,242000.0
+421,Data Science Manager,241000.0,241000.0
+141,Data Science Manager,240000.0,240000.0
+173,Principal Data Scientist,235000.0,235000.0
+74,Head of Data,235000.0,235000.0
+592,Data Scientist,230000.0,230000.0
+486,Data Scientist,230000.0,230000.0
+160,Head of Data,230000.0,230000.0
+224,Machine Learning Scientist,225000.0,225000.0
+115,Machine Learning Scientist,225000.0,225000.0
+342,Head of Data Science,224000.0,224000.0
+582,Data Engineer,220110.0,220110.0
+321,Data Engineer,220110.0,220110.0
+477,Machine Learning Engineer,220000.0,220000.0
+472,Data Scientist,220000.0,220000.0
+138,Principal Data Scientist,220000.0,220000.0
+483,Data Engineer,216000.0,216000.0
+444,Data Scientist,215300.0,215300.0
+398,Data Scientist,215300.0,215300.0
+532,Machine Learning Engineer,214000.0,214000.0
+535,Data Architect,213120.0,213120.0
+357,Data Scientist,211500.0,211500.0
+596,Data Scientist,210000.0,210000.0
+576,Data Scientist,210000.0,210000.0
+574,Data Scientist,210000.0,210000.0
+570,Data Scientist,210000.0,210000.0
+484,Data Engineer,210000.0,210000.0
+446,Data Engineer,209100.0,209100.0
+400,Data Engineer,209100.0,209100.0
+378,Data Architect,208775.0,208775.0
+542,Data Engineer,206699.0,206699.0
+560,Analytics Engineer,205300.0,205300.0
+558,Data Scientist,205300.0,205300.0
+550,Data Scientist,205300.0,205300.0
+554,Data Engineer,200100.0,200100.0
+606,AI Scientist,200000.0,200000.0
+490,Head of Data,200000.0,200000.0
+478,Data Scientist,200000.0,200000.0
+310,Data Engineer,200000.0,200000.0
+256,Data Engineer,200000.0,200000.0
+233,Data Analyst,200000.0,200000.0
+232,Director of Data Engineering,200000.0,200000.0
+206,Machine Learning Engineer,200000.0,200000.0
+121,Principal Data Engineer,200000.0,200000.0
+119,Data Engineer,200000.0,200000.0
+452,Director of Data Science,250000.0,196979.0
+201,Machine Learning Infrastructure Engineer,195000.0,195000.0
+533,Machine Learning Engineer,192600.0,192600.0
+590,Data Architect,192564.0,192564.0
+358,Data Architect,192400.0,192400.0
+67,Data Science Manager,190200.0,190200.0
+6,Lead Data Scientist,190000.0,190000.0
+438,Machine Learning Engineer,189650.0,189650.0
+371,Machine Learning Engineer,189650.0,189650.0
+47,Data Engineer,188000.0,188000.0
+106,Research Scientist,235000.0,187442.0
+476,Data Scientist,185100.0,185100.0
+258,Machine Learning Engineer,185000.0,185000.0
+215,Principal Data Engineer,185000.0,185000.0
+561,Analytics Engineer,184700.0,184700.0
+407,Data Engineer,183600.0,183600.0
+474,Data Scientist,140000.0,183228.0
+319,Data Engineer,181940.0,181940.0
+448,Data Engineer,180000.0,180000.0
+423,Data Scientist,180000.0,180000.0
+409,Data Scientist,180000.0,180000.0
+323,Data Scientist,180000.0,180000.0
+234,Data Architect,180000.0,180000.0
+525,Applied Data Scientist,177000.0,177000.0
+552,Data Scientist,176000.0,176000.0
+562,Data Engineer,175100.0,175100.0
+404,Data Engineer,175000.0,175000.0
+344,Analytics Engineer,175000.0,175000.0
+193,Data Science Manager,174000.0,174000.0
+175,Data Engineering Manager,174000.0,174000.0
+257,Principal Data Scientist,147000.0,173762.0
+597,Data Analyst,170000.0,170000.0
+566,Data Analyst,170000.0,170000.0
+369,Data Scientist,170000.0,170000.0
+328,Data Analyst,170000.0,170000.0
+294,Data Engineer,170000.0,170000.0
+249,Principal Data Analyst,170000.0,170000.0
+170,Data Architect,170000.0,170000.0
+88,Lead Data Analyst,170000.0,170000.0
+150,Director of Data Science,168000.0,168000.0
+343,Head of Data Science,167875.0,167875.0
+352,Data Scientist,167000.0,167000.0
+336,Data Analyst,167000.0,167000.0
+377,Data Engineer,165400.0,165400.0
+334,Data Engineer,165400.0,165400.0
+315,Data Scientist,165220.0,165220.0
+497,Data Scientist,165000.0,165000.0
+243,Data Scientist,165000.0,165000.0
+207,Data Engineer,165000.0,165000.0
+165,Data Specialist,165000.0,165000.0
+439,Machine Learning Engineer,164996.0,164996.0
+372,Machine Learning Engineer,164996.0,164996.0
+387,Data Analyst,164000.0,164000.0
+464,Principal Data Scientist,148000.0,162674.0
+350,Data Science Manager,161342.0,161342.0
+583,Data Engineer,160080.0,160080.0
+322,Data Engineer,160080.0,160080.0
+598,Data Scientist,160000.0,160000.0
+555,Data Engineer,160000.0,160000.0
+549,Data Engineer,160000.0,160000.0
+419,Machine Learning Scientist,160000.0,160000.0
+364,Data Engineer,160000.0,160000.0
+265,Lead Data Engineer,160000.0,160000.0
+204,Data Scientist,160000.0,160000.0
+149,Cloud Data Engineer,160000.0,160000.0
+422,Data Science Manager,159000.0,159000.0
+399,Data Scientist,158200.0,158200.0
+509,Applied Data Scientist,157000.0,157000.0
+345,Data Engineer,156600.0,156600.0
+537,Data Engineer,155000.0,155000.0
+388,Data Engineer,155000.0,155000.0
+290,Data Analyst,155000.0,155000.0
+447,Data Engineer,154600.0,154600.0
+401,Data Engineer,154600.0,154600.0
+602,Data Engineer,154000.0,154000.0
+84,Director of Data Science,130000.0,153667.0
+495,Machine Learning Scientist,153000.0,153000.0
+148,Data Engineering Manager,153000.0,153000.0
+516,Data Science Manager,152500.0,152500.0
+190,Data Science Manager,152000.0,152000.0
+125,Principal Data Scientist,151000.0,151000.0
+594,Data Analytics Manager,150260.0,150260.0
+577,Data Analyst,150075.0,150075.0
+605,Data Analyst,150000.0,150000.0
+593,Data Scientist,150000.0,150000.0
+510,Computer Vision Software Engineer,150000.0,150000.0
+356,Data Scientist,150000.0,150000.0
+295,Data Engineer,150000.0,150000.0
+169,Data Architect,150000.0,150000.0
+151,Data Scientist,150000.0,150000.0
+142,Data Engineering Manager,150000.0,150000.0
+108,Data Engineer,150000.0,150000.0
+101,Data Engineer,150000.0,150000.0
+73,BI Data Analyst,150000.0,150000.0
+4,Machine Learning Engineer,150000.0,150000.0
+55,Principal Data Scientist,130000.0,148261.0
+379,Data Architect,147800.0,147800.0
+195,Data Scientist,147000.0,147000.0
+302,Data Scientist,146000.0,146000.0
+556,Data Engineer,145000.0,145000.0
+394,Data Analytics Manager,145000.0,145000.0
+591,Data Architect,144854.0,144854.0
+553,Data Scientist,144000.0,144000.0
+466,Research Scientist,144000.0,144000.0
+154,Data Science Manager,144000.0,144000.0
+259,Director of Data Science,120000.0,141846.0
+538,Data Scientist,141300.0,141300.0
+559,Data Scientist,140400.0,140400.0
+551,Data Scientist,140400.0,140400.0
+428,Data Scientist,140400.0,140400.0
+563,Data Engineer,140250.0,140250.0
+587,Data Scientist,140000.0,140000.0
+575,Data Scientist,140000.0,140000.0
+571,Data Scientist,140000.0,140000.0
+569,Data Scientist,140000.0,140000.0
+473,Data Scientist,140000.0,140000.0
+469,Data Scientist,140000.0,140000.0
+219,Data Analytics Manager,140000.0,140000.0
+81,Data Engineer,140000.0,140000.0
+365,Data Scientist,138600.0,138600.0
+59,Data Scientist,138350.0,138350.0
+39,Machine Learning Engineer,138000.0,138000.0
+351,Data Science Manager,137141.0,137141.0
+380,Data Engineer,136994.0,136994.0
+298,Data Scientist,136620.0,136620.0
+338,Data Analyst,136600.0,136600.0
+366,Data Engineer,136000.0,136000.0
+527,Data Analyst,135000.0,135000.0
+524,Data Scientist,135000.0,135000.0
+470,Data Analyst,135000.0,135000.0
+368,Analytics Engineer,135000.0,135000.0
+349,Data Analyst,135000.0,135000.0
+289,Data Engineer,135000.0,135000.0
+228,Data Scientist,135000.0,135000.0
+140,Data Analyst,135000.0,135000.0
+8,Business Data Analyst,135000.0,135000.0
+385,Data Engineer,132320.0,132320.0
+335,Data Engineer,132320.0,132320.0
+320,Data Engineer,132320.0,132320.0
+376,Data Analyst,132000.0,132000.0
+61,Data Engineer,130800.0,130800.0
+164,Director of Data Science,110000.0,130026.0
+599,Data Scientist,130000.0,130000.0
+547,Data Engineer,130000.0,130000.0
+544,Data Engineer,130000.0,130000.0
+362,Data Analyst,130000.0,130000.0
+360,Data Analyst,130000.0,130000.0
+326,Data Analyst,130000.0,130000.0
+292,Data Scientist,130000.0,130000.0
+260,Data Scientist,130000.0,130000.0
+604,Data Analyst,129000.0,129000.0
+382,Data Analyst,128875.0,128875.0
+340,Data Engineer,128875.0,128875.0
+155,Data Science Engineer,159500.0,127221.0
+580,Data Analyst,126500.0,126500.0
+308,Data Analyst,126500.0,126500.0
+603,Data Engineer,126000.0,126000.0
+454,Computer Vision Engineer,125000.0,125000.0
+159,Machine Learning Engineer,125000.0,125000.0
+9,Lead Data Engineer,125000.0,125000.0
+389,Machine Learning Engineer,95000.0,124333.0
+325,Data Analyst,124190.0,124190.0
+370,Data Scientist,123000.0,123000.0
+353,Data Scientist,123000.0,123000.0
+303,Data Scientist,123000.0,123000.0
+518,Data Scientist,115000.0,122346.0
+291,Data Analyst,120600.0,120600.0
+317,Data Scientist,120160.0,120160.0
+508,Research Scientist,120000.0,120000.0
+485,Machine Learning Engineer,120000.0,120000.0
+480,Machine Learning Engineer,120000.0,120000.0
+479,Data Scientist,120000.0,120000.0
+465,Data Engineer,120000.0,120000.0
+453,Machine Learning Engineer,120000.0,120000.0
+391,AI Scientist,120000.0,120000.0
+324,Data Scientist,120000.0,120000.0
+209,Data Analytics Manager,120000.0,120000.0
+158,Data Analytics Manager,120000.0,120000.0
+126,Machine Learning Scientist,120000.0,120000.0
+58,Data Scientist,120000.0,120000.0
+156,Data Scientist,160000.0,119059.0
+375,Lead Data Engineer,150000.0,118187.0
+57,Data Scientist,118000.0,118000.0
+397,Data Engineer,90000.0,117789.0
+300,Data Scientist,90000.0,117789.0
+29,Machine Learning Manager,157000.0,117104.0
+221,Data Scientist,85000.0,116914.0
+564,Data Analyst,116150.0,116150.0
+306,Data Analyst,116000.0,116000.0
+540,Data Analyst,115934.0,115934.0
+402,Data Analyst,115934.0,115934.0
+329,Data Analyst,115500.0,115500.0
+545,Data Engineer,115000.0,115000.0
+504,Data Engineer,115000.0,115000.0
+250,Data Scientist,115000.0,115000.0
+107,Data Engineer,115000.0,115000.0
+24,Lead Data Scientist,115000.0,115000.0
+17,Big Data Engineer,100000.0,114047.0
+111,Director of Data Engineering,82500.0,113476.0
+348,Data Engineer,113000.0,113000.0
+536,Data Analyst,112900.0,112900.0
+392,Data Analyst,112900.0,112900.0
+332,Data Analyst,112900.0,112900.0
+330,Data Analyst,112900.0,112900.0
+44,Data Engineer,88000.0,112872.0
+420,Machine Learning Scientist,112300.0,112300.0
+280,Data Engineer,112000.0,112000.0
+267,Data Engineer,111775.0,111775.0
+585,Data Analyst,110925.0,110925.0
+546,Data Engineer,110500.0,110500.0
+123,Applied Data Scientist,80000.0,110037.0
+327,Data Analyst,110000.0,110000.0
+242,Data Engineer,110000.0,110000.0
+235,Head of Data Science,110000.0,110000.0
+87,Data Analytics Engineer,110000.0,110000.0
+60,Data Engineer,110000.0,110000.0
+595,Data Analytics Manager,109280.0,109280.0
+339,Data Analyst,109280.0,109280.0
+2,Big Data Engineer,85000.0,109024.0
+287,Data Scientist,109000.0,109000.0
+346,Data Engineer,108800.0,108800.0
+581,Data Analyst,106260.0,106260.0
+307,Data Analyst,106260.0,106260.0
+43,Data Engineer,106000.0,106000.0
+395,Data Analytics Manager,105400.0,105400.0
+584,Data Analyst,105000.0,105000.0
+456,Data Engineer,105000.0,105000.0
+283,Staff Data Scientist,105000.0,105000.0
+68,Data Scientist,105000.0,105000.0
+48,Data Scientist,105000.0,105000.0
+467,Data Scientist,104890.0,104890.0
+434,Data Engineer,80000.0,104702.0
+301,Data Scientist,80000.0,104702.0
+240,Data Scientist,130000.0,103691.0
+112,Lead Data Engineer,75000.0,103160.0
+36,Data Science Consultant,103000.0,103000.0
+286,Head of Data,87000.0,102839.0
+539,Data Scientist,102100.0,102100.0
+296,Data Analyst,102100.0,102100.0
+381,Data Engineer,101570.0,101570.0
+426,Data Engineer,100800.0,100800.0
+578,Data Engineer,100000.0,100000.0
+572,Data Analyst,100000.0,100000.0
+528,Data Analyst,100000.0,100000.0
+494,Data Scientist,100000.0,100000.0
+488,Data Scientist,100000.0,100000.0
+487,Data Scientist,100000.0,100000.0
+468,Data Engineer,100000.0,100000.0
+461,Financial Data Analyst,100000.0,100000.0
+281,Research Scientist,100000.0,100000.0
+275,Data Scientist,100000.0,100000.0
+144,Data Engineer,100000.0,100000.0
+134,Data Scientist,100000.0,100000.0
+130,Machine Learning Developer,100000.0,100000.0
+76,BI Data Analyst,100000.0,100000.0
+28,Business Data Analyst,100000.0,100000.0
+255,Big Data Architect,125000.0,99703.0
+299,Data Scientist,99360.0,99360.0
+543,Data Engineer,99100.0,99100.0
+548,Data Analyst,99050.0,99050.0
+588,Data Analyst,99000.0,99000.0
+305,Data Analyst,99000.0,99000.0
+442,Data Engineer,75000.0,98158.0
+405,Data Engineer,75000.0,98158.0
+390,Machine Learning Engineer,75000.0,98158.0
+23,BI Data Analyst,98000.0,98000.0
+248,Data Engineer,70000.0,96282.0
+194,Research Scientist,120500.0,96113.0
+99,Computer Vision Software Engineer,81000.0,95746.0
+347,Data Scientist,95550.0,95550.0
+285,Data Science Manager,7000000.0,94665.0
+110,Machine Learning Engineer,80000.0,94564.0
+383,Data Analyst,93700.0,93700.0
+341,Data Engineer,93700.0,93700.0
+498,Research Scientist,85000.0,93427.0
+266,Data Engineer,93150.0,93150.0
+254,Data Analyst,93000.0,93000.0
+475,Data Scientist,70000.0,91614.0
+435,Data Engineer,70000.0,91614.0
+69,Data Scientist,80000.0,91237.0
+51,Data Analyst,91000.0,91000.0
+217,Data Scientist,76760.0,90734.0
+181,Data Scientist,76760.0,90734.0
+359,Data Architect,90700.0,90700.0
+529,Data Analyst,90320.0,90320.0
+393,Data Analyst,90320.0,90320.0
+333,Data Analyst,90320.0,90320.0
+331,Data Analyst,90320.0,90320.0
+318,Data Analyst,90320.0,90320.0
+293,Data Scientist,90000.0,90000.0
+251,Data Scientist,90000.0,90000.0
+199,Data Science Consultant,90000.0,90000.0
+147,Data Engineer,90000.0,90000.0
+135,Data Analyst,90000.0,90000.0
+118,Data Analyst,90000.0,90000.0
+95,Cloud Data Engineer,120000.0,89294.0
+227,Data Scientist,75000.0,88654.0
+218,Machine Learning Engineer,75000.0,88654.0
+90,Marketing Data Analyst,75000.0,88654.0
+457,Lead Machine Learning Engineer,80000.0,87932.0
+437,Data Engineer,80000.0,87932.0
+432,Data Engineer,80000.0,87932.0
+396,Machine Learning Engineer,80000.0,87932.0
+226,Data Scientist,110000.0,87738.0
+503,Machine Learning Engineer,121000.0,87425.0
+13,Lead Data Analyst,87000.0,87000.0
+505,Data Scientist,120000.0,86703.0
+530,Data Analyst,85000.0,85000.0
+273,Machine Learning Engineer,85000.0,85000.0
+161,Head of Data Science,85000.0,85000.0
+14,Data Analyst,85000.0,85000.0
+297,Data Analyst,84900.0,84900.0
+425,Data Engineer,82900.0,82900.0
+145,Machine Learning Engineer,70000.0,82744.0
+171,Data Engineer,60000.0,82528.0
+72,Research Scientist,60000.0,82528.0
+143,Data Scientist,82500.0,82500.0
+541,Data Analyst,81666.0,81666.0
+403,Data Analyst,81666.0,81666.0
+178,Machine Learning Engineer,81000.0,81000.0
+568,Data Analyst,80000.0,80000.0
+450,Data Engineer,80000.0,80000.0
+424,Data Scientist,80000.0,80000.0
+241,Data Analyst,80000.0,80000.0
+166,Data Engineer,80000.0,80000.0
+139,Data Scientist,80000.0,80000.0
+89,Data Analyst,80000.0,80000.0
+79,Data Analyst,80000.0,80000.0
+41,Data Engineering Manager,70000.0,79833.0
+0,Data Scientist,70000.0,79833.0
+80,Data Analytics Engineer,67000.0,79197.0
+384,Head of Machine Learning,6000000.0,79039.0
+493,Machine Learning Developer,100000.0,78791.0
+451,Machine Learning Developer,100000.0,78791.0
+443,Data Engineer,60000.0,78526.0
+414,Data Engineer,60000.0,78526.0
+354,Data Engineer,60000.0,78526.0
+313,Data Engineer,60000.0,78526.0
+526,Data Scientist,78000.0,78000.0
+274,Data Scientist,65720.0,77684.0
+137,ML Engineer,8500000.0,77364.0
+46,Data Scientist,60000.0,76958.0
+445,Data Engineer,70000.0,76940.0
+433,Data Engineer,70000.0,76940.0
+272,Data Science Consultant,65000.0,76833.0
+188,Data Engineer,65000.0,76833.0
+91,Data Science Consultant,65000.0,76833.0
+152,Data Scientist,95000.0,75774.0
+531,Data Analyst,75000.0,75000.0
+506,Applied Machine Learning Scientist,75000.0,75000.0
+491,Principal Data Analyst,75000.0,75000.0
+100,Data Analyst,75000.0,75000.0
+35,Data Engineer,65000.0,74130.0
+189,Machine Learning Engineer,74000.0,74000.0
+104,Data Scientist,73000.0,73000.0
+270,Data Engineer,72500.0,72500.0
+245,Data Engineer,52500.0,72212.0
+5,Data Analyst,72000.0,72000.0
+410,Data Scientist,55000.0,71982.0
+229,Data Analyst,90000.0,71786.0
+513,Machine Learning Engineer,65000.0,71444.0
+511,Business Data Analyst,90000.0,70912.0
+557,Data Engineer,70500.0,70500.0
+49,Data Engineer,61500.0,70139.0
+98,Computer Vision Software Engineer,70000.0,70000.0
+31,Big Data Engineer,70000.0,70000.0
+284,Research Scientist,69999.0,69999.0
+282,Data Engineer,59000.0,69741.0
+187,Data Science Consultant,59000.0,69741.0
+520,Data Scientist,88000.0,69336.0
+573,Data Analyst,69000.0,69000.0
+32,Data Scientist,60000.0,68428.0
+517,Data Engineer,62000.0,68147.0
+600,Data Analyst,67000.0,67000.0
+263,Machine Learning Engineer,4900000.0,66265.0
+212,Data Engineer,48000.0,66022.0
+436,Data Engineer,60000.0,65949.0
+412,Data Engineer,60000.0,65949.0
+567,Data Analyst,50000.0,65438.0
+355,Data Engineer,50000.0,65438.0
+311,Data Scientist,50000.0,65438.0
+269,Data Engineer,55000.0,65013.0
+512,Data Engineer,65000.0,65000.0
+481,Machine Learning Engineer,65000.0,65000.0
+507,Research Scientist,59000.0,64849.0
+418,Data Engineer,63900.0,63900.0
+261,Data Analyst,54000.0,63831.0
+163,Data Science Consultant,54000.0,63831.0
+236,Research Scientist,80000.0,63810.0
+136,ML Engineer,7000000.0,63711.0
+70,Data Scientist,55000.0,62726.0
+65,Data Scientist,55000.0,62726.0
+500,Machine Learning Engineer,57000.0,62651.0
+146,Research Scientist,53000.0,62649.0
+103,Data Analyst,62000.0,62000.0
+183,Finance Data Analyst,45000.0,61896.0
+200,Data Scientist,52000.0,61467.0
+363,Data Analyst,61300.0,61300.0
+361,Data Analyst,61300.0,61300.0
+174,Research Scientist,51400.0,60757.0
+589,Data Analyst,60000.0,60000.0
+417,Data Science Engineer,60000.0,60000.0
+172,Data Analyst,60000.0,60000.0
+120,Big Data Engineer,60000.0,60000.0
+54,Computer Vision Engineer,60000.0,60000.0
+30,Data Engineering Manager,51999.0,59303.0
+279,Business Data Analyst,50000.0,59102.0
+86,Data Analyst,50000.0,59102.0
+415,Data Engineer,45000.0,58894.0
+460,Machine Learning Infrastructure Engineer,53000.0,58255.0
+496,Data Engineer,52800.0,58035.0
+406,Data Analyst,58000.0,58000.0
+367,Data Analyst,58000.0,58000.0
+276,Data Scientist,58000.0,58000.0
+211,Research Scientist,48000.0,56738.0
+223,Data Scientist,40900.0,56256.0
+19,Lead Data Engineer,56000.0,56000.0
+277,AI Scientist,55000.0,55000.0
+168,BI Data Analyst,55000.0,55000.0
+462,Data Engineer,50000.0,54957.0
+374,ETL Developer,50000.0,54957.0
+373,ETL Developer,50000.0,54957.0
+53,Data Engineer,48000.0,54742.0
+82,Applied Data Scientist,68000.0,54238.0
+198,Data Science Manager,4000000.0,54094.0
+565,Data Engineer,54000.0,54000.0
+75,Data Scientist,45000.0,53192.0
+499,Data Scientist,66500.0,52396.0
+408,Data Analyst,40000.0,52351.0
+314,Data Engineer,40000.0,52351.0
+304,Data Engineer,40000.0,52351.0
+601,Data Analyst,52000.0,52000.0
+105,Data Analyst,37456.0,51519.0
+10,Data Scientist,45000.0,51321.0
+288,Machine Learning Engineer,43200.0,51064.0
+42,Machine Learning Infrastructure Engineer,44000.0,50180.0
+471,Data Analyst,50000.0,50000.0
+203,Research Scientist,50000.0,50000.0
+186,Data Analytics Engineer,50000.0,50000.0
+122,Data Analyst,50000.0,50000.0
+116,Data Scientist,50000.0,50000.0
+131,Data Scientist,42000.0,49646.0
+427,Data Engineer,45000.0,49461.0
+413,Data Engineer,45000.0,49461.0
+66,Data Scientist,43200.0,49268.0
+515,Data Scientist,48000.0,48000.0
+22,Data Engineer,42000.0,47899.0
+83,Machine Learning Engineer,40000.0,47282.0
+237,Data Scientist,39600.0,46809.0
+34,Data Analyst,41000.0,46759.0
+220,Machine Learning Engineer,180000.0,46597.0
+52,AI Scientist,300000.0,45896.0
+586,Data Analyst,35000.0,45807.0
+411,Data Scientist,35000.0,45807.0
+316,Data Engineer,35000.0,45807.0
+40,Data Scientist,45760.0,45760.0
+64,Machine Learning Engineer,40000.0,45618.0
+114,Data Engineer,38400.0,45391.0
+440,Data Analyst,40000.0,43966.0
+430,Data Analyst,40000.0,43966.0
+20,Machine Learning Engineer,299000.0,43331.0
+71,Data Scientist,37000.0,42197.0
+26,Research Scientist,42000.0,42000.0
+16,Data Engineer,4450000.0,41689.0
+129,Lead Data Scientist,3000000.0,40570.0
+11,Data Scientist,3000000.0,40481.0
+117,Data Science Engineer,34000.0,40189.0
+177,Data Scientist,3.04E7,40038.0
+502,Data Scientist,40000.0,40000.0
+12,Data Scientist,35000.0,39916.0
+429,Data Analyst,30000.0,39263.0
+312,Data Scientist,30000.0,39263.0
+56,Data Scientist,34000.0,38776.0
+132,Applied Machine Learning Scientist,38400.0,38400.0
+202,Data Scientist,32000.0,37825.0
+386,Machine Learning Engineer,28500.0,37300.0
+455,NLP Engineer,240000.0,37236.0
+246,Data Scientist,31000.0,36643.0
+102,BI Data Analyst,1.1E7,36259.0
+7,Data Scientist,1.1E7,35735.0
+492,Data Scientist,150000.0,35590.0
+222,Data Scientist,2500000.0,33808.0
+27,Data Engineer,720000.0,33511.0
+501,Head of Data,30000.0,32974.0
+441,Data Analyst,30000.0,32974.0
+431,Data Analyst,30000.0,32974.0
+489,Applied Machine Learning Scientist,29000.0,31875.0
+459,Data Scientist,2400000.0,31615.0
+109,Data Engineer,2250000.0,30428.0
+94,Data Scientist,2200000.0,29751.0
+216,Computer Vision Engineer,180000.0,28609.0
+85,Data Engineer,110000.0,28476.0
+253,Data Scientist,2100000.0,28399.0
+162,Data Engineer,24000.0,28369.0
+268,Data Engineer,250000.0,28016.0
+182,Data Engineer,22000.0,26005.0
+264,Data Scientist,21600.0,25532.0
+579,Data Engineer,25000.0,25000.0
+214,Machine Learning Engineer,21000.0,24823.0
+210,Machine Learning Engineer,21000.0,24823.0
+197,Machine Learning Engineer,1799997.0,24342.0
+133,Computer Vision Engineer,24000.0,24000.0
+180,Big Data Engineer,1672000.0,22611.0
+449,ML Engineer,20000.0,21983.0
+191,Machine Learning Engineer,21844.0,21844.0
+62,Data Scientist,19000.0,21669.0
+239,Data Engineer,1600000.0,21637.0
+278,Data Scientist,180000.0,20171.0
+522,Data Analyst,20000.0,20000.0
+514,Data Analytics Engineer,20000.0,20000.0
+208,Data Engineer,20000.0,20000.0
+128,Machine Learning Engineer,20000.0,20000.0
+3,Product Data Analyst,20000.0,20000.0
+92,Lead Data Analyst,1450000.0,19609.0
+271,Computer Vision Engineer,102000.0,18907.0
+463,Data Scientist,1400000.0,18442.0
+458,Business Data Analyst,1400000.0,18442.0
+244,AI Scientist,1335000.0,18053.0
+192,Big Data Engineer,18000.0,18000.0
+262,Data Scientist,1250000.0,16904.0
+230,Big Data Engineer,1200000.0,16228.0
+45,ML Engineer,14000.0,15966.0
+153,Data Scientist,13400.0,13400.0
+205,Data Scientist,69600.0,12901.0
+247,Data Engineer,108000.0,12103.0
+184,Machine Learning Scientist,12000.0,12000.0
+113,AI Scientist,12000.0,12000.0
+96,AI Scientist,12000.0,12000.0
+124,Data Analyst,8760.0,10354.0
+521,Computer Vision Engineer,10000.0,10000.0
+38,Data Analyst,10000.0,10000.0
+127,Data Scientist,700000.0,9466.0
+196,BI Data Analyst,9272.0,9272.0
+15,Data Analyst,8000.0,8000.0
+50,Data Analyst,450000.0,6072.0
+21,Product Data Analyst,450000.0,6072.0
+213,Big Data Engineer,435000.0,5882.0
+18,Data Science Consultant,423000.0,5707.0
+179,Data Scientist,420000.0,5679.0
+77,3D Computer Vision Researcher,400000.0,5409.0
+238,Data Scientist,4000.0,4000.0
+185,Data Engineer,4000.0,4000.0
+176,Data Scientist,58000.0,2859.0
