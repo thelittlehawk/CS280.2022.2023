@@ -1,0 +1,13 @@
+Student Id, Course Id, Points, Type
+M001, C001, 10, Assignment 1
+M001, C001, 20, Assignment 2
+M001, C001, 30, Assignment 3
+M001, C001, 10, Midterm
+M002, C001, B
+M003, C001, C
+M004, C001, D
+M005, C002, A
+M006, C002, A
+M007, C002, A
+M008, C002, A
+M009, C002, D
